@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("/fonts/Impacted/impact/impact.ttf");
+	src: url("/fonts/Impacted/impact/impact.ttf") format("truetype"),
+			 url("/fonts/Impacted/impact/impacted.ttf") format("truetype"),
+			 url("/fonts/Impacted/impact/impacted.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
